@@ -101,7 +101,7 @@ class CameraActivity : ComponentActivity() {
         }
 
         val getThumbnail: (Uri?) -> ImageBitmap? = { uri ->
-            val targetSize = 256f
+            val targetSize = 258f
             uri?.let {
                 resolver.openInputStream(it)
             }?.let {
