@@ -79,7 +79,7 @@ fun GeneratedCode(modifier: Modifier = Modifier) {
                     textAlign = TextAlign.Center,
                     lineHeight = 1.29.em,
                     style = TextStyle(
-                        fontSize = 17.sp,
+                        fontSize = 18.sp,
                         fontWeight = FontWeight.Bold,
                         letterSpacing = (-0.5).sp
                     ),
