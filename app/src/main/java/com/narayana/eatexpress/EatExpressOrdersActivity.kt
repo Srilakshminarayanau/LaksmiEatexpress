@@ -63,8 +63,8 @@ fun PaymentScreen() {
     ) {
         val context = LocalContext.current
         Text(
-            text = "Payment Details",
-            style = TextStyle(fontSize = 24.sp, fontWeight = FontWeight.Bold),
+            text = "Payment Details ",
+            style = TextStyle(fontSize = 26.sp, fontWeight = FontWeight.Bold),
             modifier = Modifier.padding(bottom = 16.dp)
         )
 
